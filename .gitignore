@@ -1,0 +1,18 @@
+# Editor / IDE
+.vscode/
+
+# Build artifacts
+*.o
+router
+hosts_output/
+router_*
+
+# Archive
+*.zip
+
+# Old readme
+README_Old.md
+
+# Python cache
+__pycache__/
+*.pyc
